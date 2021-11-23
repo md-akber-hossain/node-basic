@@ -1,0 +1,1 @@
+sum : This is the first text +  Hi this is second text
